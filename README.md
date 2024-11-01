@@ -1,4 +1,4 @@
-**Gnome Extentions I use:***
+***Gnome Extentions I use:***
 - Blur my Shell (https://extensions.gnome.org/extension/3193/blur-my-shell/)
 - Dash to Dock (https://extensions.gnome.org/extension/307/dash-to-dock/)
 - Rounded Window Corners (https://extensions.gnome.org/extension/7048/rounded-window-corners-reborn/)
